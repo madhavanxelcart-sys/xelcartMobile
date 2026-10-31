@@ -1,0 +1,2 @@
+﻿Generated with the built-in image_gen tool. Saved as assets/images/delivery_truck.png.
+Prompt: Use case: stylized-concept. Asset: small Xelcart delivery card illustration. A single cute premium 3D delivery truck with rounded clay body, lavender parcel cargo box, electric-purple cabin and wheels, soft highlights and subtle contact shadow, isometric three-quarter angle facing right. Modern e-commerce onboarding aesthetic matching a lavender purple parcel box. Isolated centered, transparent background, generous margins. No text, logos or scenery.

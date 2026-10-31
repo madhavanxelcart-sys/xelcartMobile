@@ -1,0 +1,7 @@
+﻿Generated with the built-in image_gen tool. Transparent PNG assets.
+
+onboarding_parcel.png prompt:
+Use case: stylized-concept. Create a single small premium 3D parcel box illustration for Xelcart mobile onboarding. A closed lavender-purple shipping carton with folded flaps, lavender tape, slightly rounded soft clay edges, isometric three-quarter angle. Soft upper-left studio lighting, subtle contact shadow. Clean modern playful e-commerce aesthetic, palette lavender and electric purple #4F39F6. Isolated centered object, generous margins, transparent background. No text, no logo, no scenery.
+
+onboarding_storefront.png prompt:
+Use case: stylized-concept. Create a single small premium 3D storefront illustration for Xelcart mobile onboarding. A miniature shop with a lavender and electric-purple striped awning, light lavender walls, little purple door and display window, slightly rounded soft clay edges, isometric three-quarter angle. Soft upper-left studio lighting, subtle contact shadow. Clean modern playful e-commerce aesthetic, palette lavender and electric purple #4F39F6. Isolated centered object, generous margins, transparent background. No text, no logo, no scenery.

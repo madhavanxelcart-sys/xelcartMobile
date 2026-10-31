@@ -1,0 +1,2 @@
+﻿Built-in image_gen tool. Output: assets/images/inventory_boxes.png
+Prompt: Use case: stylized-concept. Asset: Xelcart inventory header illustration. Three small stacked warm tan cardboard shipping boxes, one on top of two below, soft rounded edges, visible packing tape, isometric three-quarter view, subtle lavender accent on a small blank label, soft studio lighting and contact shadow. Premium clean playful 3D clay ecommerce aesthetic. Centered, isolated transparent background, generous margins. No text, logos, extra objects or scenery.

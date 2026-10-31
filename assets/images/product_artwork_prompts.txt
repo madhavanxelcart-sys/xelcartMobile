@@ -1,0 +1,5 @@
+﻿Generated using the built-in image_gen tool, one image per prompt.
+Shared prompt: Use case: product-mockup. Generate a square e-commerce product thumbnail photograph: [subject]. Single centered product, premium simple studio product photography, soft pale warm gray background, subtle grounding shadow, ample margin, front three-quarter view. Realistic material, clean soft lighting. No text, no logos, no decoration.
+blue_cotton_shirt.png subject: a neatly folded royal blue cotton button-down shirt, visible collar and two buttons
+canvas_tote_bag.png subject: a natural cream canvas tote bag standing upright with two long handles
+ceramic_dinner_set.png subject: a warm ivory ceramic dinner set, one upright dinner plate behind neatly stacked side plates with one teacup and saucer
